@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.humanograma {
+    margin: 5%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__imagem {
+    height: 20vh;
+}
